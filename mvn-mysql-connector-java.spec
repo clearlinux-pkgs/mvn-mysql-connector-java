@@ -4,7 +4,7 @@
 #
 Name     : mvn-mysql-connector-java
 Version  : 5.1.38
-Release  : 1
+Release  : 2
 URL      : https://github.com/mysql/mysql-connector-j/archive/5.1.38.tar.gz
 Source0  : https://github.com/mysql/mysql-connector-j/archive/5.1.38.tar.gz
 Source1  : https://repo1.maven.org/maven2/mysql/mysql-connector-java/5.1.38/mysql-connector-java-5.1.38.jar
